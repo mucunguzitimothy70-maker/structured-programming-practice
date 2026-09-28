@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//EXERCISE 4.19
 int main() {
     int product_number = 0;
     int quantity = 0;
