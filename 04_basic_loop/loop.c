@@ -1,12 +1,11 @@
 #include <stdio.h>
-
-int main(void) {
+//EXERCISE 4.11
+int main(vl) {
     long long sum = 0;
     int count = 0;
 
-    // Iterate through numbers from 1 to 100
     for (int i = 1; i <= 100; i++) {
-        // Check if i is a multiple of 7
+        
         if (i % 7 == 0) {
             sum += i;
             count++;
