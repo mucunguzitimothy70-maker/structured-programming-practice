@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int limit = 0;
     long long sum = 0;
     long long sum_squares = 0;
